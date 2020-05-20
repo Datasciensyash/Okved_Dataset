@@ -14,7 +14,7 @@
 
 **Описание структуры данных**
 |Колонка |Описание| code_full.csv | code_level_2.csv | code_level_1.csv |
-|-------|-----------|-----------|-----------|-----------|
+|-------|-----------| ----------- | ----------- | ----------- |
 |Section| Секция, в которой находится код |:white_check_mark: | :white_check_mark: | :white_check_mark: |
 |Code| Код ОКВЭД, полный | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 |Main_code| Код ОКВЭД первого уровня | :white_check_mark: | :white_check_mark: | :white_check_mark: |
