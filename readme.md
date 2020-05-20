@@ -18,10 +18,10 @@
 |Колонка |Описание| Пример |code_full.csv | code_level_2.csv | code_level_1.csv |
 |-------|-----------|----------- | ----------- | ----------- | ----------- |
 |Section| Секция, в которой находится код | A | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-|Code| Код ОКВЭД, полный | 43.03.01 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+|Code| Код ОКВЭД, полный | 43.3.1 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 |Main_code| Код ОКВЭД первого уровня | 43 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-|Sup_code| Код ОКВЭД второго уровня | 03 | :white_check_mark: | :white_check_mark: | :x: |
-|Sub_code| Код ОКВЭД третьего уровня | 01| :white_check_mark: | :x: | :x: |
+|Sup_code| Код ОКВЭД второго уровня | 3 | :white_check_mark: | :white_check_mark: | :x: |
+|Sub_code| Код ОКВЭД третьего уровня | 1| :white_check_mark: | :x: | :x: |
 
 **Описание секций**
 |Секция|Описание|
