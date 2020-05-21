@@ -22,7 +22,7 @@
 |Main_code| Код ОКВЭД первого уровня | 43 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 |Sup_code| Код ОКВЭД второго уровня | 3 | :white_check_mark: | :white_check_mark: | :x: |
 |Sub_code| Код ОКВЭД третьего уровня | 1| :white_check_mark: | :x: | :x: |
-|Description| Описание кода ОКВЭД | Добыча угля | :white_check_mark: | :white_check_mark: | :white_check_mark:: |
+|Description| Описание кода ОКВЭД | Добыча угля | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 **Описание секций**
 |Секция|Описание|
